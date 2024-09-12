@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>C:/world_cup/worldcup.png</file>
+        <file>C:/world_cup/soccer-player-464.jpeg</file>
+        <file>C:/world_cup/kiticon.png</file>
+        <file>C:/world_cup/vecteezy_football-soccer-field-vector-illustration-coach-table-for_6797323.jpg</file>
+        <file>C:/world_cup/edit_lineup.jpg</file>
+        <file>C:/world_cup/soccer-field.png</file>
+        <file>C:/world_cup/istockphoto-1320330053-170667a.jpg</file>
+        <file>C:/world_cup/_get_premium_download_high_resolution_imagedesigned_with_EDIT.org.jpg</file>
+        <file>C:/world_cup/MAIN_MENU_IMAGE.jpg</file>
+        <file>C:/world_cup/backgroundimage_group.jfif</file>
+        <file>C:/world_cup/23-6-2021-7ss_generated.jpg</file>
+        <file>C:/world_cup/vecteezy_abstract-qatar-flag-background-template-with-diamond-pattern_13334533.jpg</file>
+        <file>C:/world_cup/vecteezy_football-doha-qatar-2022-creative-geometric-background_13047771.jpg</file>
+        <file>C:/world_cup/vecteezy_football-worldcup-qatar-2022-abstract-red-soccer-background_12946796.jpg</file>
+        <file>C:/world_cup/edit_vecteezy_football-doha-qatar-2022-creative-geometric-background_13047771.jpg</file>
+        <file>C:/world_cup/edit_get_premium_download_high_resolution_imagedesigned_with_EDIT.org.jpg</file>
+        <file>C:/world_cup/edit_tour_vecteezy_football-doha-qatar-2022-creative-geometric-background_13047771.jpg</file>
+        <file>C:/world_cup/qatar_cup_12.jpg</file>
+        <file>C:/world_cup/ticket_background.jpg</file>
+        <file>C:/world_cup/QATAR_World_Cup_Official_Trailer_Hayya_Hayya_Better_Together_2022.mp3</file>
+        <file>C:/world_cup/roadmap.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
